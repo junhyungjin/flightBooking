@@ -12,6 +12,7 @@
 		D8663CC61CE4C59B00C8F11A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8663CC41CE4C59B00C8F11A /* Main.storyboard */; };
 		D8663CC81CE4C59B00C8F11A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8663CC71CE4C59B00C8F11A /* Assets.xcassets */; };
 		D8663CCB1CE4C59B00C8F11A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8663CC91CE4C59B00C8F11A /* LaunchScreen.storyboard */; };
+		D8663CD31CE4C62100C8F11A /* background.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D8663CD21CE4C62100C8F11A /* background.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D8663CC71CE4C59B00C8F11A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8663CCA1CE4C59B00C8F11A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8663CCC1CE4C59B00C8F11A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8663CD21CE4C62100C8F11A /* background.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		D8663CBF1CE4C59B00C8F11A /* FlightBooking */ = {
 			isa = PBXGroup;
 			children = (
+				D8663CD21CE4C62100C8F11A /* background.jpeg */,
 				D8663CC01CE4C59B00C8F11A /* AppDelegate.swift */,
 				D8663CC21CE4C59B00C8F11A /* ViewController.swift */,
 				D8663CC41CE4C59B00C8F11A /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				D8663CCB1CE4C59B00C8F11A /* LaunchScreen.storyboard in Resources */,
 				D8663CC81CE4C59B00C8F11A /* Assets.xcassets in Resources */,
 				D8663CC61CE4C59B00C8F11A /* Main.storyboard in Resources */,
+				D8663CD31CE4C62100C8F11A /* background.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
